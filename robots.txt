@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# IMPORTANTE: substitua amparoinformatica.com.br pelo domínio real após hospedar
+Sitemap: https://amparoinformatica.com.br/sitemap.xml
