@@ -1,0 +1,12 @@
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ferramentas de IA / configuração local
+.claude/
+.agents/
+
+# Verificação de propriedade do Search Console (não versionar)
+google*.html
