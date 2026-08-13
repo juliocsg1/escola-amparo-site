@@ -3,6 +3,8 @@
 Site institucional de uma escola de informática de Amparo (SP). Site estático de quatro
 páginas, sem build e sem framework, focado em conversão para WhatsApp e em SEO local.
 
+**No ar em [amparoinformatica.com.br](https://amparoinformatica.com.br)**
+
 ![Página inicial](img/home.webp)
 
 ## Páginas
