@@ -81,6 +81,16 @@ Depois acesse `http://localhost:8080`.
 └── robots.txt
 ```
 
+## Deploy
+
+Hospedado na **Netlify**, com deploy contínuo a partir da branch `main`: cada push
+publica o site. Não há etapa de build — a raiz do repositório é servida como está.
+
+A Netlify aplica *Pretty URLs* na publicação, então os links internos escritos como
+`curso.html` são servidos como `/curso`. As duas formas respondem, e as tags
+`<link rel="canonical">` apontam para a versão com `.html`, que é a listada no
+`sitemap.xml`.
+
 ## Observação
 
 Projeto real, de um negócio da família. O número de WhatsApp presente no código é o contato

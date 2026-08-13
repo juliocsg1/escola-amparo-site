@@ -8,5 +8,7 @@ Thumbs.db
 .claude/
 .agents/
 
-# Verificação de propriedade do Search Console (não versionar)
-google*.html
+# O arquivo googl*.html de verificação do Search Console fica versionado de
+# propósito: o deploy é contínuo a partir deste repositório, então tudo que
+# precisa existir no servidor precisa existir aqui. O token só tem valor
+# servido neste domínio — não dá acesso a nada fora dele.
